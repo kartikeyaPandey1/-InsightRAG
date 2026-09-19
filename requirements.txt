@@ -1,0 +1,13 @@
+pandas
+numpy
+jupyter
+matplotlib
+seaborn
+faker
+
+streamlit
+altair
+python-dotenv
+groq
+sentence-transformers
+faiss-cpu

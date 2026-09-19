@@ -1,0 +1,296 @@
+
+CLOTHING DISCOUNT AND PROFITABILITY ANALYSIS
+
+
+Month: 2024-01
+
+Total Sales: ₹1,399,647.53
+
+Total Profit: ₹350,055.70
+
+Average Discount: 8.24%
+
+Profit Margin: 25.01%
+
+
+Month: 2024-02
+
+Total Sales: ₹1,311,081.46
+
+Total Profit: ₹340,279.16
+
+Average Discount: 8.85%
+
+Profit Margin: 25.95%
+
+
+Month: 2024-03
+
+Total Sales: ₹1,415,101.09
+
+Total Profit: ₹344,225.30
+
+Average Discount: 8.64%
+
+Profit Margin: 24.33%
+
+
+Month: 2024-04
+
+Total Sales: ₹1,709,158.16
+
+Total Profit: ₹428,254.56
+
+Average Discount: 8.02%
+
+Profit Margin: 25.06%
+
+
+Month: 2024-05
+
+Total Sales: ₹1,845,500.04
+
+Total Profit: ₹449,244.56
+
+Average Discount: 8.57%
+
+Profit Margin: 24.34%
+
+
+Month: 2024-06
+
+Total Sales: ₹1,358,785.84
+
+Total Profit: ₹351,882.59
+
+Average Discount: 8.90%
+
+Profit Margin: 25.90%
+
+
+Month: 2024-07
+
+Total Sales: ₹1,779,387.33
+
+Total Profit: ₹493,201.19
+
+Average Discount: 7.21%
+
+Profit Margin: 27.72%
+
+
+Month: 2024-08
+
+Total Sales: ₹1,609,345.90
+
+Total Profit: ₹400,663.22
+
+Average Discount: 8.41%
+
+Profit Margin: 24.90%
+
+
+Month: 2024-09
+
+Total Sales: ₹1,902,310.52
+
+Total Profit: ₹485,359.50
+
+Average Discount: 8.63%
+
+Profit Margin: 25.51%
+
+
+Month: 2024-10
+
+Total Sales: ₹2,012,155.41
+
+Total Profit: ₹549,780.96
+
+Average Discount: 8.07%
+
+Profit Margin: 27.32%
+
+
+Month: 2024-11
+
+Total Sales: ₹1,818,188.93
+
+Total Profit: ₹483,365.26
+
+Average Discount: 7.34%
+
+Profit Margin: 26.58%
+
+
+Month: 2024-12
+
+Total Sales: ₹1,726,580.41
+
+Total Profit: ₹445,016.41
+
+Average Discount: 8.39%
+
+Profit Margin: 25.77%
+
+
+Month: 2025-01
+
+Total Sales: ₹1,647,009.59
+
+Total Profit: ₹416,402.88
+
+Average Discount: 8.03%
+
+Profit Margin: 25.28%
+
+
+Month: 2025-02
+
+Total Sales: ₹1,498,670.13
+
+Total Profit: ₹404,825.09
+
+Average Discount: 7.58%
+
+Profit Margin: 27.01%
+
+
+Month: 2025-03
+
+Total Sales: ₹1,724,250.57
+
+Total Profit: ₹455,956.75
+
+Average Discount: 7.83%
+
+Profit Margin: 26.44%
+
+
+Month: 2025-04
+
+Total Sales: ₹1,488,796.39
+
+Total Profit: ₹378,594.86
+
+Average Discount: 7.20%
+
+Profit Margin: 25.43%
+
+
+Month: 2025-05
+
+Total Sales: ₹1,764,696.27
+
+Total Profit: ₹440,699.67
+
+Average Discount: 8.27%
+
+Profit Margin: 24.97%
+
+
+Month: 2025-06
+
+Total Sales: ₹1,745,267.08
+
+Total Profit: ₹464,168.91
+
+Average Discount: 7.66%
+
+Profit Margin: 26.60%
+
+
+Month: 2025-07
+
+Total Sales: ₹1,519,839.69
+
+Total Profit: ₹399,562.67
+
+Average Discount: 7.95%
+
+Profit Margin: 26.29%
+
+
+Month: 2025-08
+
+Total Sales: ₹1,695,141.94
+
+Total Profit: ₹427,375.30
+
+Average Discount: 8.33%
+
+Profit Margin: 25.21%
+
+
+Month: 2025-09
+
+Total Sales: ₹1,636,831.11
+
+Total Profit: ₹447,498.82
+
+Average Discount: 7.87%
+
+Profit Margin: 27.34%
+
+
+Month: 2025-10
+
+Total Sales: ₹1,928,891.36
+
+Total Profit: ₹512,430.83
+
+Average Discount: 7.40%
+
+Profit Margin: 26.57%
+
+
+Month: 2025-11
+
+Total Sales: ₹1,267,818.06
+
+Total Profit: ₹145,443.25
+
+Average Discount: 22.29%
+
+Profit Margin: 11.47%
+
+
+Month: 2025-12
+
+Total Sales: ₹1,235,052.82
+
+Total Profit: ₹133,695.18
+
+Average Discount: 23.79%
+
+Profit Margin: 10.83%
+
+
+DISCOUNT TRAP BUSINESS INSIGHT
+
+During November and December 2025,
+the Clothing category experienced a significant increase
+in average discounts.
+
+November 2025:
+
+Average Discount:
+22.29%
+
+Profit Margin:
+11.47%
+
+December 2025:
+
+Average Discount:
+23.79%
+
+Profit Margin:
+10.83%
+
+The higher discount levels were associated with
+a significant decline in profit margins.
+
+This demonstrates a discount trap scenario where
+increasing discounts can support sales activity but
+significantly reduce business profitability.

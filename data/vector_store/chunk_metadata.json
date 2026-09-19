@@ -1,0 +1,140 @@
+[
+    {
+        "chunk_id": "chunk_0001",
+        "source": "category_performance.txt",
+        "chunk_index": 0,
+        "content": "CATEGORY PERFORMANCE ANALYSIS\n\n\nCategory: Beauty\n\nTotal Sales: ₹25,544,932.27\n\nTotal Profit: ₹6,205,708.82\n\nTotal Quantity Sold: 10,660\n\nProfit Margin: 24.29%\n\n\nCategory: Clothing\n\nTotal Sales: ₹39,039,507.63\n\nTotal Profit: ₹9,747,982.62\n\nTotal Quantity Sold: 12,302\n\nProfit Margin: 24.97%\n\n\nCategory: Electronics\n\nTotal Sales: ₹496,988,490.06\n\nTotal Profit: ₹126,493,804.35\n\nTotal Quantity Sold: 11,899\n\nProfit Margin: 25.45%\n\n\nCategory: Home & Kitchen\n\nTotal Sales: ₹166,415,507.61\n\nTotal Profit: ₹43,238,738.69\n\nTotal Quantity Sold: 13,004\n\nProfit Margin: 25.98%\n\n\nCategory: Sports\n\nTotal Sales: ₹96,151,114.68\n\nTotal Profit: ₹25,628,407.87\n\nTotal Quantity Sold: 12,870\n\nProfit Margin: 26.65%\n\n\nKEY CATEGORY INSIGHTS\n\nThe category with the highest sales is\nElectronics.\n\nThe category generating"
+    },
+    {
+        "chunk_id": "chunk_0002",
+        "source": "category_performance.txt",
+        "chunk_index": 1,
+        "content": "tal Quantity Sold: 12,870\n\nProfit Margin: 26.65%\n\n\nKEY CATEGORY INSIGHTS\n\nThe category with the highest sales is\nElectronics.\n\nThe category generating the highest total profit is\nElectronics."
+    },
+    {
+        "chunk_id": "chunk_0003",
+        "source": "clothing_discount_trap.txt",
+        "chunk_index": 0,
+        "content": "CLOTHING DISCOUNT AND PROFITABILITY ANALYSIS\n\n\nMonth: 2024-01\n\nTotal Sales: ₹1,399,647.53\n\nTotal Profit: ₹350,055.70\n\nAverage Discount: 8.24%\n\nProfit Margin: 25.01%\n\n\nMonth: 2024-02\n\nTotal Sales: ₹1,311,081.46\n\nTotal Profit: ₹340,279.16\n\nAverage Discount: 8.85%\n\nProfit Margin: 25.95%\n\n\nMonth: 2024-03\n\nTotal Sales: ₹1,415,101.09\n\nTotal Profit: ₹344,225.30\n\nAverage Discount: 8.64%\n\nProfit Margin: 24.33%\n\n\nMonth: 2024-04\n\nTotal Sales: ₹1,709,158.16\n\nTotal Profit: ₹428,254.56\n\nAverage Discount: 8.02%\n\nProfit Margin: 25.06%\n\n\nMonth: 2024-05\n\nTotal Sales: ₹1,845,500.04\n\nTotal Profit: ₹449,244.56\n\nAverage Discount: 8.57%\n\nProfit Margin: 24.34%\n\n\nMonth: 2024-06\n\nTotal Sales: ₹1,358,785.84\n\nTotal Profit: ₹351,882.59\n\nAverage Discount: 8.90%\n\nProfit Margin: 25.90%\n\n\nMonth: 2024-07\n\nTotal Sales:"
+    },
+    {
+        "chunk_id": "chunk_0004",
+        "source": "clothing_discount_trap.txt",
+        "chunk_index": 1,
+        "content": "Month: 2024-06\n\nTotal Sales: ₹1,358,785.84\n\nTotal Profit: ₹351,882.59\n\nAverage Discount: 8.90%\n\nProfit Margin: 25.90%\n\n\nMonth: 2024-07\n\nTotal Sales: ₹1,779,387.33\n\nTotal Profit: ₹493,201.19\n\nAverage Discount: 7.21%\n\nProfit Margin: 27.72%\n\n\nMonth: 2024-08\n\nTotal Sales: ₹1,609,345.90\n\nTotal Profit: ₹400,663.22\n\nAverage Discount: 8.41%\n\nProfit Margin: 24.90%\n\n\nMonth: 2024-09\n\nTotal Sales: ₹1,902,310.52\n\nTotal Profit: ₹485,359.50\n\nAverage Discount: 8.63%\n\nProfit Margin: 25.51%\n\n\nMonth: 2024-10\n\nTotal Sales: ₹2,012,155.41\n\nTotal Profit: ₹549,780.96\n\nAverage Discount: 8.07%\n\nProfit Margin: 27.32%\n\n\nMonth: 2024-11\n\nTotal Sales: ₹1,818,188.93\n\nTotal Profit: ₹483,365.26\n\nAverage Discount: 7.34%\n\nProfit Margin: 26.58%\n\n\nMonth: 2024-12\n\nTotal Sales: ₹1,726,580.41\n\nTotal Profit:"
+    },
+    {
+        "chunk_id": "chunk_0005",
+        "source": "clothing_discount_trap.txt",
+        "chunk_index": 2,
+        "content": ": ₹1,818,188.93\n\nTotal Profit: ₹483,365.26\n\nAverage Discount: 7.34%\n\nProfit Margin: 26.58%\n\n\nMonth: 2024-12\n\nTotal Sales: ₹1,726,580.41\n\nTotal Profit: ₹445,016.41\n\nAverage Discount: 8.39%\n\nProfit Margin: 25.77%\n\n\nMonth: 2025-01\n\nTotal Sales: ₹1,647,009.59\n\nTotal Profit: ₹416,402.88\n\nAverage Discount: 8.03%\n\nProfit Margin: 25.28%\n\n\nMonth: 2025-02\n\nTotal Sales: ₹1,498,670.13\n\nTotal Profit: ₹404,825.09\n\nAverage Discount: 7.58%\n\nProfit Margin: 27.01%\n\n\nMonth: 2025-03\n\nTotal Sales: ₹1,724,250.57\n\nTotal Profit: ₹455,956.75\n\nAverage Discount: 7.83%\n\nProfit Margin: 26.44%\n\n\nMonth: 2025-04\n\nTotal Sales: ₹1,488,796.39\n\nTotal Profit: ₹378,594.86\n\nAverage Discount: 7.20%\n\nProfit Margin: 25.43%\n\n\nMonth: 2025-05\n\nTotal Sales: ₹1,764,696.27\n\nTotal Profit: ₹440,699.67\n\nAverage Discount: 8.27%\n\nProfit"
+    },
+    {
+        "chunk_id": "chunk_0006",
+        "source": "clothing_discount_trap.txt",
+        "chunk_index": 3,
+        "content": "verage Discount: 7.20%\n\nProfit Margin: 25.43%\n\n\nMonth: 2025-05\n\nTotal Sales: ₹1,764,696.27\n\nTotal Profit: ₹440,699.67\n\nAverage Discount: 8.27%\n\nProfit Margin: 24.97%\n\n\nMonth: 2025-06\n\nTotal Sales: ₹1,745,267.08\n\nTotal Profit: ₹464,168.91\n\nAverage Discount: 7.66%\n\nProfit Margin: 26.60%\n\n\nMonth: 2025-07\n\nTotal Sales: ₹1,519,839.69\n\nTotal Profit: ₹399,562.67\n\nAverage Discount: 7.95%\n\nProfit Margin: 26.29%\n\n\nMonth: 2025-08\n\nTotal Sales: ₹1,695,141.94\n\nTotal Profit: ₹427,375.30\n\nAverage Discount: 8.33%\n\nProfit Margin: 25.21%\n\n\nMonth: 2025-09\n\nTotal Sales: ₹1,636,831.11\n\nTotal Profit: ₹447,498.82\n\nAverage Discount: 7.87%\n\nProfit Margin: 27.34%\n\n\nMonth: 2025-10\n\nTotal Sales: ₹1,928,891.36\n\nTotal Profit: ₹512,430.83\n\nAverage Discount: 7.40%\n\nProfit Margin: 26.57%\n\n\nMonth: 2025-11\n\nTotal Sales:"
+    },
+    {
+        "chunk_id": "chunk_0007",
+        "source": "clothing_discount_trap.txt",
+        "chunk_index": 4,
+        "content": "Month: 2025-10\n\nTotal Sales: ₹1,928,891.36\n\nTotal Profit: ₹512,430.83\n\nAverage Discount: 7.40%\n\nProfit Margin: 26.57%\n\n\nMonth: 2025-11\n\nTotal Sales: ₹1,267,818.06\n\nTotal Profit: ₹145,443.25\n\nAverage Discount: 22.29%\n\nProfit Margin: 11.47%\n\n\nMonth: 2025-12\n\nTotal Sales: ₹1,235,052.82\n\nTotal Profit: ₹133,695.18\n\nAverage Discount: 23.79%\n\nProfit Margin: 10.83%\n\n\nDISCOUNT TRAP BUSINESS INSIGHT\n\nDuring November and December 2025,\nthe Clothing category experienced a significant increase\nin average discounts.\n\nNovember 2025:\n\nAverage Discount:\n22.29%\n\nProfit Margin:\n11.47%\n\nDecember 2025:\n\nAverage Discount:\n23.79%\n\nProfit Margin:\n10.83%\n\nThe higher discount levels were associated with\na significant decline in profit margins.\n\nThis demonstrates a discount trap scenario where\nincreasing"
+    },
+    {
+        "chunk_id": "chunk_0008",
+        "source": "clothing_discount_trap.txt",
+        "chunk_index": 5,
+        "content": "The higher discount levels were associated with\na significant decline in profit margins.\n\nThis demonstrates a discount trap scenario where\nincreasing discounts can support sales activity but\nsignificantly reduce business profitability."
+    },
+    {
+        "chunk_id": "chunk_0009",
+        "source": "customer_analysis.txt",
+        "chunk_index": 0,
+        "content": "CUSTOMER SEGMENT ANALYSIS\n\n\nCustomer Segment: Budget\n\nTotal Sales: ₹207,735,988.08\n\nTotal Profit: ₹52,218,713.95\n\nQuantity Purchased: 15,258\n\nUnique Customers: 487\n\nProfit Margin: 25.14%\n\n\nCustomer Segment: Premium\n\nTotal Sales: ₹164,161,729.71\n\nTotal Profit: ₹42,509,949.09\n\nQuantity Purchased: 11,734\n\nUnique Customers: 381\n\nProfit Margin: 25.90%\n\n\nCustomer Segment: Regular\n\nTotal Sales: ₹452,241,834.46\n\nTotal Profit: ₹116,585,979.31\n\nQuantity Purchased: 33,743\n\nUnique Customers: 1,088\n\nProfit Margin: 25.78%"
+    },
+    {
+        "chunk_id": "chunk_0010",
+        "source": "electronics_profitability_issue.txt",
+        "chunk_index": 0,
+        "content": "ELECTRONICS PROFITABILITY ANALYSIS\n\n\nQuarter: 2024Q1\n\nTotal Sales: ₹59,671,210.79\n\nTotal Cost: ₹42,840,593.64\n\nTotal Profit: ₹16,830,617.15\n\nProfit Margin: 28.21%\n\n\nQuarter: 2024Q2\n\nTotal Sales: ₹63,558,048.71\n\nTotal Cost: ₹45,736,485.95\n\nTotal Profit: ₹17,821,562.76\n\nProfit Margin: 28.04%\n\n\nQuarter: 2024Q3\n\nTotal Sales: ₹68,482,472.98\n\nTotal Cost: ₹49,557,211.36\n\nTotal Profit: ₹18,925,261.62\n\nProfit Margin: 27.64%\n\n\nQuarter: 2024Q4\n\nTotal Sales: ₹65,179,413.08\n\nTotal Cost: ₹47,245,370.33\n\nTotal Profit: ₹17,934,042.75\n\nProfit Margin: 27.51%\n\n\nQuarter: 2025Q1\n\nTotal Sales: ₹63,658,271.88\n\nTotal Cost: ₹46,381,209.94\n\nTotal Profit: ₹17,277,061.94\n\nProfit Margin: 27.14%\n\n\nQuarter: 2025Q2\n\nTotal Sales: ₹56,115,304.66\n\nTotal Cost: ₹40,594,586.22\n\nTotal Profit: ₹15,520,718.44\n\nProfit Margin:"
+    },
+    {
+        "chunk_id": "chunk_0011",
+        "source": "electronics_profitability_issue.txt",
+        "chunk_index": 1,
+        "content": "061.94\n\nProfit Margin: 27.14%\n\n\nQuarter: 2025Q2\n\nTotal Sales: ₹56,115,304.66\n\nTotal Cost: ₹40,594,586.22\n\nTotal Profit: ₹15,520,718.44\n\nProfit Margin: 27.66%\n\n\nQuarter: 2025Q3\n\nTotal Sales: ₹58,396,436.58\n\nTotal Cost: ₹52,669,906.50\n\nTotal Profit: ₹5,726,530.08\n\nProfit Margin: 9.81%\n\n\nQuarter: 2025Q4\n\nTotal Sales: ₹61,927,331.38\n\nTotal Cost: ₹45,469,321.77\n\nTotal Profit: ₹16,458,009.61\n\nProfit Margin: 26.58%\n\n\nCRITICAL BUSINESS INSIGHT\n\nDuring Q3 2025, the Electronics category experienced\na significant decline in profitability.\n\nElectronics generated sales of approximately\n₹58,396,436.58 during Q3 2025.\n\nHowever, the profit margin declined to only\n9.81%.\n\nCompared with the typical Electronics profit margin\nof approximately 25% to 28% during other quarters,\nQ3 2025 represents a significant"
+    },
+    {
+        "chunk_id": "chunk_0012",
+        "source": "electronics_profitability_issue.txt",
+        "chunk_index": 2,
+        "content": "o only\n9.81%.\n\nCompared with the typical Electronics profit margin\nof approximately 25% to 28% during other quarters,\nQ3 2025 represents a significant profitability issue.\n\nThis indicates that revenue remained relatively strong,\nbut increased costs or reduced margins significantly\naffected profitability."
+    },
+    {
+        "chunk_id": "chunk_0013",
+        "source": "marketing_analysis.txt",
+        "chunk_index": 0,
+        "content": "MARKETING CAMPAIGN PERFORMANCE ANALYSIS\n\n\nMarketing Channel: Affiliate Marketing\n\nTotal Campaign Cost:\n₹2,488,100.29\n\nTotal Revenue Generated:\n₹6,056,782.39\n\nAverage ROI:\n148.70%\n\nNumber of Campaigns:\n9\n\n\nMarketing Channel: Email\n\nTotal Campaign Cost:\n₹1,252,069.46\n\nTotal Revenue Generated:\n₹3,163,286.00\n\nAverage ROI:\n214.40%\n\nNumber of Campaigns:\n4\n\n\nMarketing Channel: Influencer Marketing\n\nTotal Campaign Cost:\n₹1,920,925.02\n\nTotal Revenue Generated:\n₹8,097,756.42\n\nAverage ROI:\n269.61%\n\nNumber of Campaigns:\n8\n\n\nMarketing Channel: Search Ads\n\nTotal Campaign Cost:\n₹2,433,348.61\n\nTotal Revenue Generated:\n₹5,891,320.10\n\nAverage ROI:\n214.41%\n\nNumber of Campaigns:\n10\n\n\nMarketing Channel: Social Media\n\nTotal Campaign Cost:\n₹2,691,441.51\n\nTotal Revenue Generated:\n₹4,694,953.88\n\nAverage"
+    },
+    {
+        "chunk_id": "chunk_0014",
+        "source": "marketing_analysis.txt",
+        "chunk_index": 1,
+        "content": "14.41%\n\nNumber of Campaigns:\n10\n\n\nMarketing Channel: Social Media\n\nTotal Campaign Cost:\n₹2,691,441.51\n\nTotal Revenue Generated:\n₹4,694,953.88\n\nAverage ROI:\n92.53%\n\nNumber of Campaigns:\n9\n\n\nKEY MARKETING INSIGHT\n\nThe marketing channel with the highest average ROI is\nInfluencer Marketing."
+    },
+    {
+        "chunk_id": "chunk_0015",
+        "source": "monthly_trends.txt",
+        "chunk_index": 0,
+        "content": "MONTHLY SALES AND PROFIT ANALYSIS\n\n\nMonth: 2024-01\n\nTotal Sales: ₹35,066,586.65\n\nTotal Profit: ₹9,587,821.98\n\n\nMonth: 2024-02\n\nTotal Sales: ₹27,878,150.07\n\nTotal Profit: ₹7,543,529.23\n\n\nMonth: 2024-03\n\nTotal Sales: ₹37,177,337.89\n\nTotal Profit: ₹10,122,199.87\n\n\nMonth: 2024-04\n\nTotal Sales: ₹35,839,578.11\n\nTotal Profit: ₹9,875,972.81\n\n\nMonth: 2024-05\n\nTotal Sales: ₹35,600,254.75\n\nTotal Profit: ₹9,671,022.75\n\n\nMonth: 2024-06\n\nTotal Sales: ₹33,185,273.12\n\nTotal Profit: ₹9,042,214.96\n\n\nMonth: 2024-07\n\nTotal Sales: ₹34,596,514.82\n\nTotal Profit: ₹9,714,014.50\n\n\nMonth: 2024-08\n\nTotal Sales: ₹37,569,778.67\n\nTotal Profit: ₹10,157,962.03\n\n\nMonth: 2024-09\n\nTotal Sales: ₹36,152,210.70\n\nTotal Profit: ₹9,396,542.44\n\n\nMonth: 2024-10\n\nTotal Sales: ₹34,203,707.07\n\nTotal Profit: ₹9,138,823.04\n\n\nMonth:"
+    },
+    {
+        "chunk_id": "chunk_0016",
+        "source": "monthly_trends.txt",
+        "chunk_index": 1,
+        "content": "2024-09\n\nTotal Sales: ₹36,152,210.70\n\nTotal Profit: ₹9,396,542.44\n\n\nMonth: 2024-10\n\nTotal Sales: ₹34,203,707.07\n\nTotal Profit: ₹9,138,823.04\n\n\nMonth: 2024-11\n\nTotal Sales: ₹39,179,668.78\n\nTotal Profit: ₹10,704,669.00\n\n\nMonth: 2024-12\n\nTotal Sales: ₹34,070,620.82\n\nTotal Profit: ₹8,947,660.99\n\n\nMonth: 2025-01\n\nTotal Sales: ₹33,433,945.60\n\nTotal Profit: ₹8,842,354.28\n\n\nMonth: 2025-02\n\nTotal Sales: ₹34,263,897.56\n\nTotal Profit: ₹9,320,673.68\n\n\nMonth: 2025-03\n\nTotal Sales: ₹36,507,944.57\n\nTotal Profit: ₹9,818,953.47\n\n\nMonth: 2025-04\n\nTotal Sales: ₹30,630,553.75\n\nTotal Profit: ₹8,322,376.37\n\n\nMonth: 2025-05\n\nTotal Sales: ₹36,001,357.49\n\nTotal Profit: ₹9,387,004.47\n\n\nMonth: 2025-06\n\nTotal Sales: ₹31,919,497.29\n\nTotal Profit: ₹8,811,411.11\n\n\nMonth: 2025-07\n\nTotal Sales: ₹35,207,769.97\n\nTotal"
+    },
+    {
+        "chunk_id": "chunk_0017",
+        "source": "monthly_trends.txt",
+        "chunk_index": 2,
+        "content": "Profit: ₹9,387,004.47\n\n\nMonth: 2025-06\n\nTotal Sales: ₹31,919,497.29\n\nTotal Profit: ₹8,811,411.11\n\n\nMonth: 2025-07\n\nTotal Sales: ₹35,207,769.97\n\nTotal Profit: ₹6,139,373.28\n\n\nMonth: 2025-08\n\nTotal Sales: ₹34,700,350.05\n\nTotal Profit: ₹5,286,775.77\n\n\nMonth: 2025-09\n\nTotal Sales: ₹30,040,067.49\n\nTotal Profit: ₹5,249,255.38\n\n\nMonth: 2025-10\n\nTotal Sales: ₹35,410,518.16\n\nTotal Profit: ₹9,173,055.82\n\n\nMonth: 2025-11\n\nTotal Sales: ₹33,032,259.45\n\nTotal Profit: ₹8,580,598.41\n\n\nMonth: 2025-12\n\nTotal Sales: ₹32,471,709.42\n\nTotal Profit: ₹8,480,376.71\n\n\nKEY MONTHLY INSIGHTS\n\nThe month with the highest sales was\n2024-11.\n\nThe month with the highest profit was\n2024-11."
+    },
+    {
+        "chunk_id": "chunk_0018",
+        "source": "overall_business_summary.txt",
+        "chunk_index": 0,
+        "content": "INSIGHTRAG OVERALL BUSINESS SUMMARY\n\nThe InsightRAG business dataset contains transactional,\ncustomer, product, return, and marketing information.\n\nOverall Business Performance:\n\nTotal Sales: ₹824,139,552.25\n\nTotal Cost: ₹612,824,909.90\n\nTotal Profit: ₹211,314,642.35\n\nTotal Quantity Sold: 60,735\n\nTotal Orders: 7,996\n\nTotal Unique Customers: 1,956\n\nOverall Profit Margin: 25.64%\n\nThe business generated approximately ₹824,139,552.25\nin sales and ₹211,314,642.35 in profit.\n\nThe overall profit margin was 25.64%."
+    },
+    {
+        "chunk_id": "chunk_0019",
+        "source": "product_performance.txt",
+        "chunk_index": 0,
+        "content": "TOP PRODUCT PERFORMANCE ANALYSIS\n\nThe following products generated the highest sales.\n\n\nProduct: NoiseFree X 587\n\nProduct ID: P0228\n\nCategory: Electronics\n\nTotal Sales: ₹20,338,571.64\n\nTotal Profit: ₹2,867,194.40\n\nQuantity Sold: 286\n\n\nProduct: NoiseFree X 964\n\nProduct ID: P0088\n\nCategory: Electronics\n\nTotal Sales: ₹18,618,168.84\n\nTotal Profit: ₹5,799,199.84\n\nQuantity Sold: 256\n\n\nProduct: Nova X1 535\n\nProduct ID: P0037\n\nCategory: Electronics\n\nTotal Sales: ₹18,357,041.95\n\nTotal Profit: ₹4,797,954.94\n\nQuantity Sold: 280\n\n\nProduct: BassMax 862\n\nProduct ID: P0238\n\nCategory: Electronics\n\nTotal Sales: ₹18,262,091.58\n\nTotal Profit: ₹4,170,107.47\n\nQuantity Sold: 265\n\n\nProduct: NoiseFree X 754\n\nProduct ID: P0147\n\nCategory: Electronics\n\nTotal Sales: ₹18,024,019.16\n\nTotal Profit:"
+    },
+    {
+        "chunk_id": "chunk_0020",
+        "source": "product_performance.txt",
+        "chunk_index": 1,
+        "content": "it: ₹4,170,107.47\n\nQuantity Sold: 265\n\n\nProduct: NoiseFree X 754\n\nProduct ID: P0147\n\nCategory: Electronics\n\nTotal Sales: ₹18,024,019.16\n\nTotal Profit: ₹6,083,799.19\n\nQuantity Sold: 283\n\n\nProduct: Pixel Max 171\n\nProduct ID: P0191\n\nCategory: Electronics\n\nTotal Sales: ₹17,849,711.00\n\nTotal Profit: ₹6,893,102.21\n\nQuantity Sold: 251\n\n\nProduct: Edge Ultra 386\n\nProduct ID: P0224\n\nCategory: Electronics\n\nTotal Sales: ₹17,779,169.14\n\nTotal Profit: ₹2,993,351.24\n\nQuantity Sold: 260\n\n\nProduct: AirSound 614\n\nProduct ID: P0244\n\nCategory: Electronics\n\nTotal Sales: ₹17,555,912.23\n\nTotal Profit: ₹6,376,490.71\n\nQuantity Sold: 240\n\n\nProduct: Edge Ultra 284\n\nProduct ID: P0054\n\nCategory: Electronics\n\nTotal Sales: ₹16,734,517.15\n\nTotal Profit: ₹5,033,938.30\n\nQuantity Sold: 241\n\n\nProduct: NoiseFree X"
+    },
+    {
+        "chunk_id": "chunk_0021",
+        "source": "product_performance.txt",
+        "chunk_index": 2,
+        "content": "tra 284\n\nProduct ID: P0054\n\nCategory: Electronics\n\nTotal Sales: ₹16,734,517.15\n\nTotal Profit: ₹5,033,938.30\n\nQuantity Sold: 241\n\n\nProduct: NoiseFree X 511\n\nProduct ID: P0023\n\nCategory: Electronics\n\nTotal Sales: ₹16,430,152.62\n\nTotal Profit: ₹2,948,000.15\n\nQuantity Sold: 255"
+    },
+    {
+        "chunk_id": "chunk_0022",
+        "source": "returns_analysis.txt",
+        "chunk_index": 0,
+        "content": "RETURNS ANALYSIS\n\nThe following products have the highest return rates.\n\n\nProduct: Wall Clock 174\n\nProduct ID: P0095\n\nCategory: Home & Kitchen\n\nItems Sold: 72\n\nReturns: 21\n\nReturn Rate:\n29.17%\n\n\nProduct: Resistance Bands 181\n\nProduct ID: P0185\n\nCategory: Sports\n\nItems Sold: 79\n\nReturns: 23\n\nReturn Rate:\n29.11%\n\n\nProduct: FitWatch Pro 776\n\nProduct ID: P0022\n\nCategory: Electronics\n\nItems Sold: 79\n\nReturns: 22\n\nReturn Rate:\n27.85%\n\n\nProduct: Sports Backpack 190\n\nProduct ID: P0051\n\nCategory: Sports\n\nItems Sold: 77\n\nReturns: 21\n\nReturn Rate:\n27.27%\n\n\nProduct: Pulse X 415\n\nProduct ID: P0171\n\nCategory: Electronics\n\nItems Sold: 82\n\nReturns: 22\n\nReturn Rate:\n26.83%\n\n\nProduct: BassMax 862\n\nProduct ID: P0238\n\nCategory: Electronics\n\nItems Sold: 82\n\nReturns: 21\n\nReturn Rate:\n25.61%\n\n\nProduct: Winter"
+    },
+    {
+        "chunk_id": "chunk_0023",
+        "source": "returns_analysis.txt",
+        "chunk_index": 1,
+        "content": "turn Rate:\n26.83%\n\n\nProduct: BassMax 862\n\nProduct ID: P0238\n\nCategory: Electronics\n\nItems Sold: 82\n\nReturns: 21\n\nReturn Rate:\n25.61%\n\n\nProduct: Winter Jacket 845\n\nProduct ID: P0014\n\nCategory: Clothing\n\nItems Sold: 92\n\nReturns: 22\n\nReturn Rate:\n23.91%\n\n\nProduct: Slim Fit Jeans 720\n\nProduct ID: P0006\n\nCategory: Clothing\n\nItems Sold: 90\n\nReturns: 21\n\nReturn Rate:\n23.33%\n\n\nProduct: Matte Lipstick 811\n\nProduct ID: P0041\n\nCategory: Beauty\n\nItems Sold: 69\n\nReturns: 16\n\nReturn Rate:\n23.19%\n\n\nProduct: Winter Jacket 714\n\nProduct ID: P0180\n\nCategory: Clothing\n\nItems Sold: 76\n\nReturns: 17\n\nReturn Rate:\n22.37%"
+    }
+]

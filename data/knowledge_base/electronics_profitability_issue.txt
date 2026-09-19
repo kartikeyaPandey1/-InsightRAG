@@ -1,0 +1,110 @@
+
+ELECTRONICS PROFITABILITY ANALYSIS
+
+
+Quarter: 2024Q1
+
+Total Sales: ₹59,671,210.79
+
+Total Cost: ₹42,840,593.64
+
+Total Profit: ₹16,830,617.15
+
+Profit Margin: 28.21%
+
+
+Quarter: 2024Q2
+
+Total Sales: ₹63,558,048.71
+
+Total Cost: ₹45,736,485.95
+
+Total Profit: ₹17,821,562.76
+
+Profit Margin: 28.04%
+
+
+Quarter: 2024Q3
+
+Total Sales: ₹68,482,472.98
+
+Total Cost: ₹49,557,211.36
+
+Total Profit: ₹18,925,261.62
+
+Profit Margin: 27.64%
+
+
+Quarter: 2024Q4
+
+Total Sales: ₹65,179,413.08
+
+Total Cost: ₹47,245,370.33
+
+Total Profit: ₹17,934,042.75
+
+Profit Margin: 27.51%
+
+
+Quarter: 2025Q1
+
+Total Sales: ₹63,658,271.88
+
+Total Cost: ₹46,381,209.94
+
+Total Profit: ₹17,277,061.94
+
+Profit Margin: 27.14%
+
+
+Quarter: 2025Q2
+
+Total Sales: ₹56,115,304.66
+
+Total Cost: ₹40,594,586.22
+
+Total Profit: ₹15,520,718.44
+
+Profit Margin: 27.66%
+
+
+Quarter: 2025Q3
+
+Total Sales: ₹58,396,436.58
+
+Total Cost: ₹52,669,906.50
+
+Total Profit: ₹5,726,530.08
+
+Profit Margin: 9.81%
+
+
+Quarter: 2025Q4
+
+Total Sales: ₹61,927,331.38
+
+Total Cost: ₹45,469,321.77
+
+Total Profit: ₹16,458,009.61
+
+Profit Margin: 26.58%
+
+
+CRITICAL BUSINESS INSIGHT
+
+During Q3 2025, the Electronics category experienced
+a significant decline in profitability.
+
+Electronics generated sales of approximately
+₹58,396,436.58 during Q3 2025.
+
+However, the profit margin declined to only
+9.81%.
+
+Compared with the typical Electronics profit margin
+of approximately 25% to 28% during other quarters,
+Q3 2025 represents a significant profitability issue.
+
+This indicates that revenue remained relatively strong,
+but increased costs or reduced margins significantly
+affected profitability.

@@ -1,0 +1,26 @@
+
+INSIGHTRAG OVERALL BUSINESS SUMMARY
+
+The InsightRAG business dataset contains transactional,
+customer, product, return, and marketing information.
+
+Overall Business Performance:
+
+Total Sales: ₹824,139,552.25
+
+Total Cost: ₹612,824,909.90
+
+Total Profit: ₹211,314,642.35
+
+Total Quantity Sold: 60,735
+
+Total Orders: 7,996
+
+Total Unique Customers: 1,956
+
+Overall Profit Margin: 25.64%
+
+The business generated approximately ₹824,139,552.25
+in sales and ₹211,314,642.35 in profit.
+
+The overall profit margin was 25.64%.

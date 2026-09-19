@@ -1,0 +1,179 @@
+
+MONTHLY SALES AND PROFIT ANALYSIS
+
+
+Month: 2024-01
+
+Total Sales: ₹35,066,586.65
+
+Total Profit: ₹9,587,821.98
+
+
+Month: 2024-02
+
+Total Sales: ₹27,878,150.07
+
+Total Profit: ₹7,543,529.23
+
+
+Month: 2024-03
+
+Total Sales: ₹37,177,337.89
+
+Total Profit: ₹10,122,199.87
+
+
+Month: 2024-04
+
+Total Sales: ₹35,839,578.11
+
+Total Profit: ₹9,875,972.81
+
+
+Month: 2024-05
+
+Total Sales: ₹35,600,254.75
+
+Total Profit: ₹9,671,022.75
+
+
+Month: 2024-06
+
+Total Sales: ₹33,185,273.12
+
+Total Profit: ₹9,042,214.96
+
+
+Month: 2024-07
+
+Total Sales: ₹34,596,514.82
+
+Total Profit: ₹9,714,014.50
+
+
+Month: 2024-08
+
+Total Sales: ₹37,569,778.67
+
+Total Profit: ₹10,157,962.03
+
+
+Month: 2024-09
+
+Total Sales: ₹36,152,210.70
+
+Total Profit: ₹9,396,542.44
+
+
+Month: 2024-10
+
+Total Sales: ₹34,203,707.07
+
+Total Profit: ₹9,138,823.04
+
+
+Month: 2024-11
+
+Total Sales: ₹39,179,668.78
+
+Total Profit: ₹10,704,669.00
+
+
+Month: 2024-12
+
+Total Sales: ₹34,070,620.82
+
+Total Profit: ₹8,947,660.99
+
+
+Month: 2025-01
+
+Total Sales: ₹33,433,945.60
+
+Total Profit: ₹8,842,354.28
+
+
+Month: 2025-02
+
+Total Sales: ₹34,263,897.56
+
+Total Profit: ₹9,320,673.68
+
+
+Month: 2025-03
+
+Total Sales: ₹36,507,944.57
+
+Total Profit: ₹9,818,953.47
+
+
+Month: 2025-04
+
+Total Sales: ₹30,630,553.75
+
+Total Profit: ₹8,322,376.37
+
+
+Month: 2025-05
+
+Total Sales: ₹36,001,357.49
+
+Total Profit: ₹9,387,004.47
+
+
+Month: 2025-06
+
+Total Sales: ₹31,919,497.29
+
+Total Profit: ₹8,811,411.11
+
+
+Month: 2025-07
+
+Total Sales: ₹35,207,769.97
+
+Total Profit: ₹6,139,373.28
+
+
+Month: 2025-08
+
+Total Sales: ₹34,700,350.05
+
+Total Profit: ₹5,286,775.77
+
+
+Month: 2025-09
+
+Total Sales: ₹30,040,067.49
+
+Total Profit: ₹5,249,255.38
+
+
+Month: 2025-10
+
+Total Sales: ₹35,410,518.16
+
+Total Profit: ₹9,173,055.82
+
+
+Month: 2025-11
+
+Total Sales: ₹33,032,259.45
+
+Total Profit: ₹8,580,598.41
+
+
+Month: 2025-12
+
+Total Sales: ₹32,471,709.42
+
+Total Profit: ₹8,480,376.71
+
+
+KEY MONTHLY INSIGHTS
+
+The month with the highest sales was
+2024-11.
+
+The month with the highest profit was
+2024-11.

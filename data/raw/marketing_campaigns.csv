@@ -1,0 +1,41 @@
+campaign_id,campaign_name,channel,start_date,end_date,campaign_cost,revenue_generated,roi_percentage,performance_type
+MC0001,Seasonal Promotion Social Media 1,Social Media,2025-07-22,2025-08-13,326281.09,1027311.88,214.85,Average
+MC0002,Seasonal Promotion Search Ads 2,Search Ads,2024-05-31,2024-06-07,244994.32,692264.61,182.56,Average
+MC0003,New Launch Social Media 3,Social Media,2024-07-12,2024-07-20,403390.93,454134.44,12.58,Poor
+MC0004,Weekend Deal Social Media 4,Social Media,2025-04-12,2025-05-04,369570.5,411042.65,11.22,Poor
+MC0005,Seasonal Promotion Affiliate Marketing 5,Affiliate Marketing,2025-08-23,2025-09-11,392115.15,714733.76,82.28,Average
+MC0006,New Launch Influencer Marketing 6,Influencer Marketing,2025-08-12,2025-09-08,364771.7,2054184.95,463.14,High
+MC0007,Weekend Deal Email 7,Email,2024-05-19,2024-06-14,246326.77,1686718.86,584.75,High
+MC0008,Premium Collection Influencer Marketing 8,Influencer Marketing,2025-10-11,2025-11-09,274753.59,831538.86,202.65,Average
+MC0009,Weekend Deal Affiliate Marketing 9,Affiliate Marketing,2024-05-20,2024-06-17,351330.17,1876830.09,434.21,High
+MC0010,Flash Sale Influencer Marketing 10,Influencer Marketing,2024-01-23,2024-02-19,85559.33,245173.03,186.55,Average
+MC0011,Premium Collection Email 11,Email,2025-05-19,2025-06-14,491536.5,321881.71,-34.52,Poor
+MC0012,New Launch Social Media 12,Social Media,2025-01-19,2025-02-06,422168.62,329213.12,-22.02,Poor
+MC0013,Flash Sale Search Ads 13,Search Ads,2025-07-19,2025-07-28,334942.35,621774.16,85.64,Average
+MC0014,Mega Savings Search Ads 14,Search Ads,2024-04-02,2024-04-09,128829.68,522091.45,305.26,High
+MC0015,Premium Collection Search Ads 15,Search Ads,2024-09-14,2024-10-05,311179.13,710972.51,128.48,Average
+MC0016,Festive Offer Affiliate Marketing 16,Affiliate Marketing,2024-03-10,2024-03-29,472446.9,1201833.98,154.38,Average
+MC0017,Flash Sale Affiliate Marketing 17,Affiliate Marketing,2024-03-14,2024-04-05,82796.2,110372.38,33.31,Poor
+MC0018,Mega Savings Search Ads 18,Search Ads,2024-11-09,2024-12-05,143654.76,428304.25,198.15,Average
+MC0019,Mega Savings Search Ads 19,Search Ads,2025-03-21,2025-04-11,264808.14,568295.41,114.61,Average
+MC0020,Mega Savings Search Ads 20,Search Ads,2025-06-28,2025-07-21,450852.36,541838.43,20.18,Poor
+MC0021,Summer Sale Social Media 21,Social Media,2025-06-16,2025-07-15,109847.19,303576.94,176.36,Average
+MC0022,New Launch Search Ads 22,Search Ads,2024-10-27,2024-11-16,351058.61,473850.74,34.98,Poor
+MC0023,New Launch Influencer Marketing 23,Influencer Marketing,2025-09-17,2025-10-13,180658.04,516251.07,185.76,Average
+MC0024,Festive Offer Influencer Marketing 24,Influencer Marketing,2024-11-12,2024-11-26,182367.52,141445.18,-22.44,Poor
+MC0025,Premium Collection Social Media 25,Social Media,2024-10-23,2024-11-18,274448.92,560392.63,104.19,Average
+MC0026,Mega Savings Affiliate Marketing 26,Affiliate Marketing,2025-06-24,2025-07-06,266993.76,529834.88,98.44,Average
+MC0027,Flash Sale Search Ads 27,Search Ads,2025-01-03,2025-01-14,66851.08,388936.7,481.8,High
+MC0028,Premium Collection Social Media 28,Social Media,2024-04-17,2024-05-12,295070.73,955293.57,223.75,Average
+MC0029,Flash Sale Affiliate Marketing 29,Affiliate Marketing,2025-10-20,2025-11-05,302259.42,312339.54,3.33,Poor
+MC0030,Weekend Deal Email 30,Email,2024-09-23,2024-10-18,151406.28,491336.9,224.52,Average
+MC0031,Seasonal Promotion Social Media 31,Social Media,2024-05-22,2024-06-20,127902.98,259931.39,103.23,Average
+MC0032,Weekend Deal Influencer Marketing 32,Influencer Marketing,2024-03-15,2024-03-23,194574.68,413959.49,112.75,Average
+MC0033,Festive Offer Affiliate Marketing 33,Affiliate Marketing,2024-08-29,2024-09-18,90852.61,284493.8,213.14,Average
+MC0034,Festive Offer Search Ads 34,Search Ads,2024-10-02,2024-10-12,136178.18,942991.84,592.47,High
+MC0035,Seasonal Promotion Affiliate Marketing 35,Affiliate Marketing,2024-05-17,2024-06-01,151858.71,628254.62,313.71,High
+MC0036,Festive Offer Social Media 36,Social Media,2025-07-03,2025-07-26,362760.55,394057.26,8.63,Poor
+MC0037,New Launch Email 37,Email,2024-11-30,2024-12-08,362799.91,663348.53,82.84,Average
+MC0038,Weekend Deal Affiliate Marketing 38,Affiliate Marketing,2025-11-13,2025-12-05,377447.37,398089.34,5.47,Poor
+MC0039,Summer Sale Influencer Marketing 39,Influencer Marketing,2024-07-14,2024-07-26,378539.95,2245367.02,493.17,High
+MC0040,Festive Offer Influencer Marketing 40,Influencer Marketing,2025-01-23,2025-02-13,259700.21,1649836.82,535.29,High

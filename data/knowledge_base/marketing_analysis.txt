@@ -1,0 +1,83 @@
+
+MARKETING CAMPAIGN PERFORMANCE ANALYSIS
+
+
+Marketing Channel: Affiliate Marketing
+
+Total Campaign Cost:
+₹2,488,100.29
+
+Total Revenue Generated:
+₹6,056,782.39
+
+Average ROI:
+148.70%
+
+Number of Campaigns:
+9
+
+
+Marketing Channel: Email
+
+Total Campaign Cost:
+₹1,252,069.46
+
+Total Revenue Generated:
+₹3,163,286.00
+
+Average ROI:
+214.40%
+
+Number of Campaigns:
+4
+
+
+Marketing Channel: Influencer Marketing
+
+Total Campaign Cost:
+₹1,920,925.02
+
+Total Revenue Generated:
+₹8,097,756.42
+
+Average ROI:
+269.61%
+
+Number of Campaigns:
+8
+
+
+Marketing Channel: Search Ads
+
+Total Campaign Cost:
+₹2,433,348.61
+
+Total Revenue Generated:
+₹5,891,320.10
+
+Average ROI:
+214.41%
+
+Number of Campaigns:
+10
+
+
+Marketing Channel: Social Media
+
+Total Campaign Cost:
+₹2,691,441.51
+
+Total Revenue Generated:
+₹4,694,953.88
+
+Average ROI:
+92.53%
+
+Number of Campaigns:
+9
+
+
+KEY MARKETING INSIGHT
+
+The marketing channel with the highest average ROI is
+Influencer Marketing.

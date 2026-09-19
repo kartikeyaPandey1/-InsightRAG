@@ -1,0 +1,66 @@
+
+CATEGORY PERFORMANCE ANALYSIS
+
+
+Category: Beauty
+
+Total Sales: ₹25,544,932.27
+
+Total Profit: ₹6,205,708.82
+
+Total Quantity Sold: 10,660
+
+Profit Margin: 24.29%
+
+
+Category: Clothing
+
+Total Sales: ₹39,039,507.63
+
+Total Profit: ₹9,747,982.62
+
+Total Quantity Sold: 12,302
+
+Profit Margin: 24.97%
+
+
+Category: Electronics
+
+Total Sales: ₹496,988,490.06
+
+Total Profit: ₹126,493,804.35
+
+Total Quantity Sold: 11,899
+
+Profit Margin: 25.45%
+
+
+Category: Home & Kitchen
+
+Total Sales: ₹166,415,507.61
+
+Total Profit: ₹43,238,738.69
+
+Total Quantity Sold: 13,004
+
+Profit Margin: 25.98%
+
+
+Category: Sports
+
+Total Sales: ₹96,151,114.68
+
+Total Profit: ₹25,628,407.87
+
+Total Quantity Sold: 12,870
+
+Profit Margin: 26.65%
+
+
+KEY CATEGORY INSIGHTS
+
+The category with the highest sales is
+Electronics.
+
+The category generating the highest total profit is
+Electronics.

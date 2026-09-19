@@ -1,0 +1,42 @@
+
+CUSTOMER SEGMENT ANALYSIS
+
+
+Customer Segment: Budget
+
+Total Sales: ₹207,735,988.08
+
+Total Profit: ₹52,218,713.95
+
+Quantity Purchased: 15,258
+
+Unique Customers: 487
+
+Profit Margin: 25.14%
+
+
+Customer Segment: Premium
+
+Total Sales: ₹164,161,729.71
+
+Total Profit: ₹42,509,949.09
+
+Quantity Purchased: 11,734
+
+Unique Customers: 381
+
+Profit Margin: 25.90%
+
+
+Customer Segment: Regular
+
+Total Sales: ₹452,241,834.46
+
+Total Profit: ₹116,585,979.31
+
+Quantity Purchased: 33,743
+
+Unique Customers: 1,088
+
+Profit Margin: 25.78%
+

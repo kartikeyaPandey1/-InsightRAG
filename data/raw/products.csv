@@ -1,0 +1,251 @@
+product_id,product_name,category,sub_category,cost_price,selling_price,supplier
+P0001,Coffee Maker 546,Home & Kitchen,Kitchen Appliances,810.8,1303.53,Global Retail Supply
+P0002,Cycling Helmet 337,Sports,Outdoor Equipment,5478.25,7860.72,Nova Supply Chain
+P0003,Decorative Vase 772,Home & Kitchen,Home Decor,9355.05,12136.91,Nova Supply Chain
+P0004,Sports Backpack 768,Sports,Outdoor Equipment,8352.38,11151.48,Global Retail Supply
+P0005,Daily Moisturizer 807,Beauty,Skincare,2721.14,3796.42,Global Retail Supply
+P0006,Slim Fit Jeans 720,Clothing,Jeans,2400.04,3207.02,Urban Goods
+P0007,Modern Office Chair 670,Home & Kitchen,Furniture,1075.01,1938.59,Prime Distributors
+P0008,Wall Clock 278,Home & Kitchen,Home Decor,16119.31,20836.36,TechSource India
+P0009,NoiseFree X 216,Electronics,Headphones,28996.24,49978.69,Global Retail Supply
+P0010,Cycling Helmet 903,Sports,Outdoor Equipment,3173.99,5650.99,Elite Wholesale
+P0011,Wooden Bookshelf 994,Home & Kitchen,Furniture,9521.23,13272.38,Nova Supply Chain
+P0012,ActiveWatch 961,Electronics,Smartwatches,48276.65,60827.5,Elite Wholesale
+P0013,Sunscreen SPF 50 142,Beauty,Skincare,1559.33,2635.07,TechSource India
+P0014,Winter Jacket 845,Clothing,Jackets,1391.21,2106.68,Elite Wholesale
+P0015,Yoga Mat 762,Sports,Fitness Equipment,4358.3,5774.19,TechSource India
+P0016,Casual Sneakers 887,Clothing,Shoes,2891.39,4729.68,Urban Goods
+P0017,Coffee Maker 275,Home & Kitchen,Kitchen Appliances,1841.0,2862.66,Urban Goods
+P0018,Decorative Vase 351,Home & Kitchen,Home Decor,3299.8,4468.99,Urban Goods
+P0019,Regular Fit Jeans 523,Clothing,Jeans,4297.88,5549.11,Elite Wholesale
+P0020,Study Table 249,Home & Kitchen,Furniture,14177.97,19437.68,Elite Wholesale
+P0021,Galaxy Pro 422,Electronics,Smartphones,24544.06,33029.59,Urban Goods
+P0022,FitWatch Pro 776,Electronics,Smartwatches,43444.26,73917.73,Elite Wholesale
+P0023,NoiseFree X 511,Electronics,Headphones,51513.65,71033.95,Prime Distributors
+P0024,Air Fryer 946,Home & Kitchen,Kitchen Appliances,5162.82,7570.69,Global Retail Supply
+P0025,Sports Backpack 310,Sports,Outdoor Equipment,9440.36,13369.91,Elite Wholesale
+P0026,Sports Backpack 514,Sports,Outdoor Equipment,9045.2,11743.3,TechSource India
+P0027,NoiseFree X 842,Electronics,Headphones,44605.93,57932.12,Elite Wholesale
+P0028,Shampoo 195,Beauty,Haircare,1668.15,2656.02,Prime Distributors
+P0029,Classic Cotton Tee 915,Clothing,T-Shirts,2132.69,3469.63,Prime Distributors
+P0030,Resistance Bands 161,Sports,Fitness Equipment,7811.55,12702.96,Elite Wholesale
+P0031,Modern Office Chair 874,Home & Kitchen,Furniture,9620.56,16553.29,Prime Distributors
+P0032,Matte Lipstick 564,Beauty,Cosmetics,1112.75,1827.11,Nova Supply Chain
+P0033,Face Palette 742,Beauty,Cosmetics,2583.64,3394.5,Global Retail Supply
+P0034,Mixer Grinder 782,Home & Kitchen,Kitchen Appliances,14422.63,19791.9,Nova Supply Chain
+P0035,Training Shoes 855,Clothing,Shoes,1176.7,1861.98,Elite Wholesale
+P0036,Denim Jacket 200,Clothing,Jackets,857.31,1306.04,Urban Goods
+P0037,Nova X1 535,Electronics,Smartphones,47669.41,71247.98,Urban Goods
+P0038,NoiseFree X 702,Electronics,Headphones,33794.04,45379.02,Prime Distributors
+P0039,Hair Serum 533,Beauty,Haircare,3599.18,4983.26,Urban Goods
+P0040,Yoga Mat 617,Sports,Fitness Equipment,1705.42,2343.3,Global Retail Supply
+P0041,Matte Lipstick 811,Beauty,Cosmetics,815.83,1220.68,Nova Supply Chain
+P0042,Winter Jacket 716,Clothing,Jackets,2996.36,5187.75,Prime Distributors
+P0043,Shampoo 635,Beauty,Haircare,601.63,935.86,Prime Distributors
+P0044,Mixer Grinder 128,Home & Kitchen,Kitchen Appliances,11679.74,19947.13,Elite Wholesale
+P0045,Adjustable Dumbbells 390,Sports,Fitness Equipment,2736.78,3625.93,Urban Goods
+P0046,Edge Ultra 457,Electronics,Smartphones,3818.1,6803.82,Urban Goods
+P0047,Hair Serum 563,Beauty,Haircare,3369.95,4521.38,Urban Goods
+P0048,Vitamin C Serum 616,Beauty,Skincare,2410.07,3255.01,Nova Supply Chain
+P0049,Resistance Bands 433,Sports,Fitness Equipment,1267.67,1795.07,Elite Wholesale
+P0050,Camping Tent 504,Sports,Outdoor Equipment,3040.54,5415.47,Nova Supply Chain
+P0051,Sports Backpack 190,Sports,Outdoor Equipment,9489.37,13056.33,Elite Wholesale
+P0052,Decorative Vase 226,Home & Kitchen,Home Decor,9359.25,16382.72,Elite Wholesale
+P0053,Matte Lipstick 683,Beauty,Cosmetics,1994.89,2704.42,Elite Wholesale
+P0054,Edge Ultra 284,Electronics,Smartphones,47671.85,77046.58,Global Retail Supply
+P0055,Running Shoes 926,Clothing,Shoes,2164.1,3434.49,Elite Wholesale
+P0056,FitWatch Pro 448,Electronics,Smartwatches,23407.52,35805.87,Elite Wholesale
+P0057,Mixer Grinder 193,Home & Kitchen,Kitchen Appliances,2054.68,3574.4,Global Retail Supply
+P0058,Modern Office Chair 361,Home & Kitchen,Furniture,11413.87,19392.97,Urban Goods
+P0059,Premium Polo 433,Clothing,T-Shirts,1091.05,1498.02,Prime Distributors
+P0060,Adjustable Dumbbells 245,Sports,Fitness Equipment,4092.97,6485.93,Urban Goods
+P0061,Nova X2 345,Electronics,Smartphones,42168.29,60542.5,Urban Goods
+P0062,Foundation 217,Beauty,Cosmetics,939.7,1492.58,Elite Wholesale
+P0063,Adjustable Dumbbells 129,Sports,Fitness Equipment,3899.25,6408.66,TechSource India
+P0064,Decorative Vase 791,Home & Kitchen,Home Decor,2412.26,3256.53,Nova Supply Chain
+P0065,Bomber Jacket 516,Clothing,Jackets,2248.84,2952.9,Elite Wholesale
+P0066,Regular Fit Jeans 653,Clothing,Jeans,4412.8,5919.2,Elite Wholesale
+P0067,Camping Tent 101,Sports,Outdoor Equipment,9707.25,12283.33,Elite Wholesale
+P0068,Wall Clock 100,Home & Kitchen,Home Decor,1760.89,2256.24,Prime Distributors
+P0069,Hair Serum 489,Beauty,Haircare,3800.28,4996.36,Global Retail Supply
+P0070,Foundation 146,Beauty,Cosmetics,666.3,974.8,TechSource India
+P0071,Study Table 815,Home & Kitchen,Furniture,2208.65,3776.04,Elite Wholesale
+P0072,Air Fryer 725,Home & Kitchen,Kitchen Appliances,9769.18,13016.65,Nova Supply Chain
+P0073,Table Lamp 870,Home & Kitchen,Home Decor,11083.83,17927.65,Nova Supply Chain
+P0074,Air Fryer 570,Home & Kitchen,Kitchen Appliances,15175.56,24007.62,Nova Supply Chain
+P0075,Premium Polo 587,Clothing,T-Shirts,289.2,523.54,Global Retail Supply
+P0076,Cycling Helmet 651,Sports,Outdoor Equipment,1289.65,1676.66,Nova Supply Chain
+P0077,Pixel Max 788,Electronics,Smartphones,8872.29,11188.12,Urban Goods
+P0078,Hair Conditioner 281,Beauty,Haircare,3183.47,4227.9,TechSource India
+P0079,ActiveWatch 297,Electronics,Smartwatches,22035.45,36399.35,TechSource India
+P0080,Decorative Vase 466,Home & Kitchen,Home Decor,4098.05,5434.58,Nova Supply Chain
+P0081,Wall Clock 339,Home & Kitchen,Home Decor,19414.64,24518.88,TechSource India
+P0082,Coffee Maker 823,Home & Kitchen,Kitchen Appliances,8533.81,15465.85,Nova Supply Chain
+P0083,Adjustable Dumbbells 682,Sports,Fitness Equipment,4595.6,7754.72,Global Retail Supply
+P0084,Face Palette 717,Beauty,Cosmetics,1649.56,2912.67,Global Retail Supply
+P0085,UltraBook X 683,Electronics,Laptops,52881.64,68655.1,Nova Supply Chain
+P0086,Wooden Bookshelf 123,Home & Kitchen,Furniture,17940.29,24805.22,Elite Wholesale
+P0087,Hair Serum 673,Beauty,Haircare,2443.56,4438.89,Urban Goods
+P0088,NoiseFree X 964,Electronics,Headphones,49243.12,79615.86,Nova Supply Chain
+P0089,Hair Conditioner 470,Beauty,Haircare,1504.71,2682.83,Nova Supply Chain
+P0090,Urban Fit T-Shirt 530,Clothing,T-Shirts,2156.58,3428.26,Urban Goods
+P0091,Winter Jacket 685,Clothing,Jackets,3941.73,4942.2,Global Retail Supply
+P0092,Yoga Mat 301,Sports,Fitness Equipment,1810.91,2884.98,Nova Supply Chain
+P0093,Pixel Max 542,Electronics,Smartphones,45331.6,64932.64,Nova Supply Chain
+P0094,Air Fryer 210,Home & Kitchen,Kitchen Appliances,9682.16,12260.55,TechSource India
+P0095,Wall Clock 174,Home & Kitchen,Home Decor,13796.94,19573.14,TechSource India
+P0096,Yoga Mat 162,Sports,Fitness Equipment,8887.09,13792.36,Nova Supply Chain
+P0097,TechBook Air 921,Electronics,Laptops,22632.43,36190.59,Nova Supply Chain
+P0098,Yoga Mat 793,Sports,Fitness Equipment,737.01,1308.95,Urban Goods
+P0099,Resistance Bands 870,Sports,Fitness Equipment,4950.12,6461.07,Nova Supply Chain
+P0100,Daily Moisturizer 493,Beauty,Skincare,1595.39,2428.2,Elite Wholesale
+P0101,Daily Moisturizer 766,Beauty,Skincare,3505.25,4700.41,Urban Goods
+P0102,Hair Serum 297,Beauty,Haircare,397.34,718.43,Nova Supply Chain
+P0103,TechBook Pro 752,Electronics,Laptops,26479.28,41448.49,Urban Goods
+P0104,Shampoo 348,Beauty,Haircare,482.94,860.83,Global Retail Supply
+P0105,Table Lamp 625,Home & Kitchen,Home Decor,17745.25,24025.74,Prime Distributors
+P0106,Matte Lipstick 250,Beauty,Cosmetics,1719.64,2453.71,Prime Distributors
+P0107,Wooden Bookshelf 700,Home & Kitchen,Furniture,9797.96,16715.78,Global Retail Supply
+P0108,Matte Lipstick 532,Beauty,Cosmetics,1469.39,1850.32,Nova Supply Chain
+P0109,Urban Fit T-Shirt 293,Clothing,T-Shirts,3020.15,4173.23,Urban Goods
+P0110,Foundation 972,Beauty,Cosmetics,2353.61,2976.37,Elite Wholesale
+P0111,Mixer Grinder 266,Home & Kitchen,Kitchen Appliances,2566.49,3337.32,TechSource India
+P0112,Yoga Mat 754,Sports,Fitness Equipment,2268.58,3733.86,Elite Wholesale
+P0113,Regular Fit Jeans 852,Clothing,Jeans,3561.75,4725.92,Nova Supply Chain
+P0114,Adjustable Dumbbells 288,Sports,Fitness Equipment,6884.0,12478.22,TechSource India
+P0115,SoundBeat Pro 668,Electronics,Headphones,6564.14,10542.36,Global Retail Supply
+P0116,Shampoo 130,Beauty,Haircare,717.77,1155.79,Global Retail Supply
+P0117,Wall Clock 447,Home & Kitchen,Home Decor,13031.08,21310.33,Global Retail Supply
+P0118,UltraBook X 203,Electronics,Laptops,2264.56,3148.01,Urban Goods
+P0119,BassMax 412,Electronics,Headphones,23969.6,37311.99,Prime Distributors
+P0120,Training Shoes 166,Clothing,Shoes,887.6,1151.71,Global Retail Supply
+P0121,Stretch Denim 487,Clothing,Jeans,2718.73,4318.95,Urban Goods
+P0122,Premium Polo 701,Clothing,T-Shirts,1053.2,1540.06,Global Retail Supply
+P0123,Modern Office Chair 744,Home & Kitchen,Furniture,15405.59,20053.81,Elite Wholesale
+P0124,Shampoo 844,Beauty,Haircare,394.43,590.76,Nova Supply Chain
+P0125,Vitamin C Serum 620,Beauty,Skincare,1589.73,2062.96,Elite Wholesale
+P0126,Coffee Maker 575,Home & Kitchen,Kitchen Appliances,3736.55,5131.76,Elite Wholesale
+P0127,Cycling Helmet 374,Sports,Outdoor Equipment,6334.09,8927.21,Elite Wholesale
+P0128,TechBook Pro 307,Electronics,Laptops,22510.93,36988.29,Global Retail Supply
+P0129,Mixer Grinder 685,Home & Kitchen,Kitchen Appliances,3502.2,4604.47,Prime Distributors
+P0130,Vitamin C Serum 869,Beauty,Skincare,398.88,603.34,Prime Distributors
+P0131,Urban Fit T-Shirt 624,Clothing,T-Shirts,2571.08,3916.19,Urban Goods
+P0132,Cycling Helmet 923,Sports,Outdoor Equipment,4769.45,7714.37,TechSource India
+P0133,Running Shoes 371,Clothing,Shoes,2590.73,4049.45,TechSource India
+P0134,Decorative Vase 659,Home & Kitchen,Home Decor,12224.49,16376.44,Global Retail Supply
+P0135,Nova X1 468,Electronics,Smartphones,2703.4,4505.09,Global Retail Supply
+P0136,Mixer Grinder 863,Home & Kitchen,Kitchen Appliances,14804.57,20536.67,Prime Distributors
+P0137,Stretch Denim 857,Clothing,Jeans,2145.61,3487.19,Prime Distributors
+P0138,Mixer Grinder 515,Home & Kitchen,Kitchen Appliances,15298.54,20689.04,TechSource India
+P0139,Adjustable Dumbbells 333,Sports,Fitness Equipment,2794.62,3790.43,Urban Goods
+P0140,Training Shoes 933,Clothing,Shoes,2272.14,3037.71,Prime Distributors
+P0141,Training Shoes 527,Clothing,Shoes,1094.92,1652.72,Elite Wholesale
+P0142,BassMax 691,Electronics,Headphones,43903.5,70089.39,Nova Supply Chain
+P0143,Pulse X 954,Electronics,Smartwatches,17791.58,29341.0,Urban Goods
+P0144,Cycling Helmet 701,Sports,Outdoor Equipment,624.67,836.98,Global Retail Supply
+P0145,Bomber Jacket 744,Clothing,Jackets,3810.69,4895.3,Elite Wholesale
+P0146,Camping Tent 500,Sports,Outdoor Equipment,920.63,1423.78,Urban Goods
+P0147,NoiseFree X 754,Electronics,Headphones,41127.79,71737.39,TechSource India
+P0148,Vitamin C Serum 946,Beauty,Skincare,2357.46,3507.32,Global Retail Supply
+P0149,Urban Fit T-Shirt 390,Clothing,T-Shirts,1016.63,1632.41,Elite Wholesale
+P0150,FitWatch Pro 477,Electronics,Smartwatches,25025.57,42204.74,Urban Goods
+P0151,Yoga Mat 232,Sports,Fitness Equipment,5543.02,8278.57,TechSource India
+P0152,Yoga Mat 991,Sports,Fitness Equipment,2291.54,3482.32,Nova Supply Chain
+P0153,Resistance Bands 688,Sports,Fitness Equipment,9838.27,14117.74,Elite Wholesale
+P0154,Camping Tent 107,Sports,Outdoor Equipment,9835.99,14870.73,Urban Goods
+P0155,Sunscreen SPF 50 436,Beauty,Skincare,3517.61,4569.45,Urban Goods
+P0156,Resistance Bands 193,Sports,Fitness Equipment,3600.7,4674.72,Urban Goods
+P0157,Decorative Vase 911,Home & Kitchen,Home Decor,5624.83,7998.26,Global Retail Supply
+P0158,Yoga Mat 732,Sports,Fitness Equipment,7396.76,11132.04,Nova Supply Chain
+P0159,Urban Fit T-Shirt 815,Clothing,T-Shirts,3477.35,5701.28,Global Retail Supply
+P0160,Decorative Vase 398,Home & Kitchen,Home Decor,9595.75,16933.1,Nova Supply Chain
+P0161,Casual Sneakers 880,Clothing,Shoes,2828.28,3540.53,TechSource India
+P0162,NoiseFree X 561,Electronics,Headphones,8690.54,14439.87,TechSource India
+P0163,Yoga Mat 754,Sports,Fitness Equipment,7794.71,10570.04,Urban Goods
+P0164,Table Lamp 976,Home & Kitchen,Home Decor,3079.5,5504.57,Prime Distributors
+P0165,UltraBook X 786,Electronics,Laptops,40453.33,60271.07,TechSource India
+P0166,PowerBook 15 243,Electronics,Laptops,23834.99,38456.84,Global Retail Supply
+P0167,Premium Polo 202,Clothing,T-Shirts,856.91,1474.8,Nova Supply Chain
+P0168,Yoga Mat 787,Sports,Fitness Equipment,8324.3,11572.04,Global Retail Supply
+P0169,Camping Tent 321,Sports,Outdoor Equipment,8395.86,10858.98,Elite Wholesale
+P0170,Training Shoes 148,Clothing,Shoes,3840.25,5100.76,Nova Supply Chain
+P0171,Pulse X 415,Electronics,Smartwatches,25430.75,36352.95,TechSource India
+P0172,Yoga Mat 483,Sports,Fitness Equipment,8206.13,13676.97,TechSource India
+P0173,Yoga Mat 445,Sports,Fitness Equipment,8926.17,12397.63,TechSource India
+P0174,Premium Polo 271,Clothing,T-Shirts,2514.45,4482.06,Elite Wholesale
+P0175,AirSound 675,Electronics,Headphones,35804.67,50702.74,Elite Wholesale
+P0176,Camping Tent 337,Sports,Outdoor Equipment,2300.8,3599.81,Global Retail Supply
+P0177,Pulse X 423,Electronics,Smartwatches,1472.11,2440.54,Global Retail Supply
+P0178,AirSound 144,Electronics,Headphones,4102.79,6785.5,Prime Distributors
+P0179,Shampoo 829,Beauty,Haircare,2212.37,2773.67,Elite Wholesale
+P0180,Winter Jacket 714,Clothing,Jackets,1616.39,2283.95,Urban Goods
+P0181,Winter Jacket 750,Clothing,Jackets,3385.34,4689.44,Nova Supply Chain
+P0182,Adjustable Dumbbells 118,Sports,Fitness Equipment,6491.73,9323.73,Urban Goods
+P0183,Face Palette 338,Beauty,Cosmetics,1899.93,2616.42,TechSource India
+P0184,Premium Polo 877,Clothing,T-Shirts,3407.2,5432.29,Nova Supply Chain
+P0185,Resistance Bands 181,Sports,Fitness Equipment,881.05,1368.88,Prime Distributors
+P0186,Regular Fit Jeans 309,Clothing,Jeans,2457.09,4031.21,Nova Supply Chain
+P0187,Hair Serum 998,Beauty,Haircare,1101.35,1777.71,Nova Supply Chain
+P0188,Pulse X 932,Electronics,Smartwatches,13422.06,24143.73,Nova Supply Chain
+P0189,Air Fryer 310,Home & Kitchen,Kitchen Appliances,10757.75,13851.34,Nova Supply Chain
+P0190,Stretch Denim 993,Clothing,Jeans,1637.91,2598.17,Urban Goods
+P0191,Pixel Max 171,Electronics,Smartphones,42994.07,76362.4,Global Retail Supply
+P0192,Slim Fit Jeans 277,Clothing,Jeans,2848.95,3759.47,Global Retail Supply
+P0193,Urban Fit T-Shirt 842,Clothing,T-Shirts,1813.85,3068.91,Global Retail Supply
+P0194,Running Shoes 720,Clothing,Shoes,1161.49,1869.33,Urban Goods
+P0195,Denim Jacket 181,Clothing,Jackets,3666.97,5730.57,Urban Goods
+P0196,Casual Sneakers 532,Clothing,Shoes,2405.99,3279.11,Global Retail Supply
+P0197,Adjustable Dumbbells 537,Sports,Fitness Equipment,9530.19,12883.61,Prime Distributors
+P0198,Matte Lipstick 666,Beauty,Cosmetics,2265.57,3687.91,Urban Goods
+P0199,Mixer Grinder 484,Home & Kitchen,Kitchen Appliances,9653.61,14403.84,Prime Distributors
+P0200,Running Shoes 258,Clothing,Shoes,3052.09,5538.73,Elite Wholesale
+P0201,Mixer Grinder 525,Home & Kitchen,Kitchen Appliances,18670.16,23554.9,Prime Distributors
+P0202,Cycling Helmet 756,Sports,Outdoor Equipment,8414.4,14819.07,TechSource India
+P0203,Pulse X 266,Electronics,Smartwatches,11037.46,16746.91,Prime Distributors
+P0204,Decorative Vase 600,Home & Kitchen,Home Decor,10379.63,16166.51,TechSource India
+P0205,Sports Backpack 352,Sports,Outdoor Equipment,2242.4,4014.12,Prime Distributors
+P0206,UltraBook X 719,Electronics,Laptops,26833.14,37254.46,Prime Distributors
+P0207,Slim Fit Jeans 219,Clothing,Jeans,3370.86,4740.35,Urban Goods
+P0208,Resistance Bands 293,Sports,Fitness Equipment,7808.45,13202.09,Urban Goods
+P0209,Table Lamp 612,Home & Kitchen,Home Decor,17306.66,24217.94,Urban Goods
+P0210,Hair Serum 521,Beauty,Haircare,2977.34,3811.82,TechSource India
+P0211,BassMax 375,Electronics,Headphones,47165.68,60275.31,Urban Goods
+P0212,Modern Office Chair 935,Home & Kitchen,Furniture,7292.39,12699.7,Nova Supply Chain
+P0213,Sports Backpack 395,Sports,Outdoor Equipment,6595.76,11129.11,Prime Distributors
+P0214,Slim Fit Jeans 598,Clothing,Jeans,1181.4,1500.91,Urban Goods
+P0215,Vitamin C Serum 305,Beauty,Skincare,287.78,483.11,Global Retail Supply
+P0216,Mixer Grinder 741,Home & Kitchen,Kitchen Appliances,13216.63,22893.91,Nova Supply Chain
+P0217,Urban Fit T-Shirt 187,Clothing,T-Shirts,1595.97,2577.51,Prime Distributors
+P0218,PowerBook 15 596,Electronics,Laptops,31242.2,54315.16,TechSource India
+P0219,Wooden Bookshelf 696,Home & Kitchen,Furniture,11152.58,19898.81,Global Retail Supply
+P0220,Daily Moisturizer 717,Beauty,Skincare,2131.51,2696.36,Prime Distributors
+P0221,Cycling Helmet 718,Sports,Outdoor Equipment,4323.47,6727.08,Prime Distributors
+P0222,Study Table 781,Home & Kitchen,Furniture,7338.33,10443.01,Prime Distributors
+P0223,Modern Office Chair 567,Home & Kitchen,Furniture,14223.5,21867.1,Global Retail Supply
+P0224,Edge Ultra 386,Electronics,Smartphones,56194.2,76158.36,Global Retail Supply
+P0225,Coffee Maker 802,Home & Kitchen,Kitchen Appliances,11198.92,16744.8,Urban Goods
+P0226,Premium Polo 932,Clothing,T-Shirts,1609.59,2272.01,TechSource India
+P0227,Table Lamp 339,Home & Kitchen,Home Decor,10065.02,15483.66,Elite Wholesale
+P0228,NoiseFree X 587,Electronics,Headphones,60354.35,78969.41,TechSource India
+P0229,Sports Backpack 299,Sports,Outdoor Equipment,8306.39,10823.16,Elite Wholesale
+P0230,Vitamin C Serum 609,Beauty,Skincare,2516.82,4024.74,Nova Supply Chain
+P0231,Shampoo 556,Beauty,Haircare,3208.04,4784.25,Elite Wholesale
+P0232,Slim Fit Jeans 274,Clothing,Jeans,3319.37,4642.89,TechSource India
+P0233,Pulse X 129,Electronics,Smartwatches,11012.77,14078.47,Urban Goods
+P0234,Wooden Bookshelf 363,Home & Kitchen,Furniture,13327.37,16915.57,Nova Supply Chain
+P0235,PowerBook 15 192,Electronics,Laptops,40493.11,63949.93,Global Retail Supply
+P0236,Matte Lipstick 759,Beauty,Cosmetics,1436.49,1847.48,Nova Supply Chain
+P0237,Camping Tent 328,Sports,Outdoor Equipment,2650.93,4256.86,TechSource India
+P0238,BassMax 862,Electronics,Headphones,52301.01,75447.6,Global Retail Supply
+P0239,Coffee Maker 854,Home & Kitchen,Kitchen Appliances,475.35,840.62,Elite Wholesale
+P0240,Casual Sneakers 427,Clothing,Shoes,3553.59,4742.04,Global Retail Supply
+P0241,Face Palette 704,Beauty,Cosmetics,821.6,1266.28,Elite Wholesale
+P0242,Camping Tent 935,Sports,Outdoor Equipment,10760.78,14171.9,Urban Goods
+P0243,Resistance Bands 390,Sports,Fitness Equipment,1873.32,2615.13,Nova Supply Chain
+P0244,AirSound 614,Electronics,Headphones,46028.58,79241.31,Nova Supply Chain
+P0245,Hair Serum 948,Beauty,Haircare,769.49,1235.38,Urban Goods
+P0246,BassMax 947,Electronics,Headphones,44018.82,57766.16,Global Retail Supply
+P0247,PowerBook 15 844,Electronics,Laptops,25679.65,32256.92,Nova Supply Chain
+P0248,Premium Polo 501,Clothing,T-Shirts,1694.91,2355.76,Prime Distributors
+P0249,Camping Tent 640,Sports,Outdoor Equipment,6850.05,11037.94,Global Retail Supply
+P0250,Shampoo 234,Beauty,Haircare,1310.49,1752.41,TechSource India

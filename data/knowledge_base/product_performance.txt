@@ -1,0 +1,135 @@
+
+TOP PRODUCT PERFORMANCE ANALYSIS
+
+The following products generated the highest sales.
+
+
+Product: NoiseFree X 587
+
+Product ID: P0228
+
+Category: Electronics
+
+Total Sales: ₹20,338,571.64
+
+Total Profit: ₹2,867,194.40
+
+Quantity Sold: 286
+
+
+Product: NoiseFree X 964
+
+Product ID: P0088
+
+Category: Electronics
+
+Total Sales: ₹18,618,168.84
+
+Total Profit: ₹5,799,199.84
+
+Quantity Sold: 256
+
+
+Product: Nova X1 535
+
+Product ID: P0037
+
+Category: Electronics
+
+Total Sales: ₹18,357,041.95
+
+Total Profit: ₹4,797,954.94
+
+Quantity Sold: 280
+
+
+Product: BassMax 862
+
+Product ID: P0238
+
+Category: Electronics
+
+Total Sales: ₹18,262,091.58
+
+Total Profit: ₹4,170,107.47
+
+Quantity Sold: 265
+
+
+Product: NoiseFree X 754
+
+Product ID: P0147
+
+Category: Electronics
+
+Total Sales: ₹18,024,019.16
+
+Total Profit: ₹6,083,799.19
+
+Quantity Sold: 283
+
+
+Product: Pixel Max 171
+
+Product ID: P0191
+
+Category: Electronics
+
+Total Sales: ₹17,849,711.00
+
+Total Profit: ₹6,893,102.21
+
+Quantity Sold: 251
+
+
+Product: Edge Ultra 386
+
+Product ID: P0224
+
+Category: Electronics
+
+Total Sales: ₹17,779,169.14
+
+Total Profit: ₹2,993,351.24
+
+Quantity Sold: 260
+
+
+Product: AirSound 614
+
+Product ID: P0244
+
+Category: Electronics
+
+Total Sales: ₹17,555,912.23
+
+Total Profit: ₹6,376,490.71
+
+Quantity Sold: 240
+
+
+Product: Edge Ultra 284
+
+Product ID: P0054
+
+Category: Electronics
+
+Total Sales: ₹16,734,517.15
+
+Total Profit: ₹5,033,938.30
+
+Quantity Sold: 241
+
+
+Product: NoiseFree X 511
+
+Product ID: P0023
+
+Category: Electronics
+
+Total Sales: ₹16,430,152.62
+
+Total Profit: ₹2,948,000.15
+
+Quantity Sold: 255
+

@@ -1,0 +1,145 @@
+
+RETURNS ANALYSIS
+
+The following products have the highest return rates.
+
+
+Product: Wall Clock 174
+
+Product ID: P0095
+
+Category: Home & Kitchen
+
+Items Sold: 72
+
+Returns: 21
+
+Return Rate:
+29.17%
+
+
+Product: Resistance Bands 181
+
+Product ID: P0185
+
+Category: Sports
+
+Items Sold: 79
+
+Returns: 23
+
+Return Rate:
+29.11%
+
+
+Product: FitWatch Pro 776
+
+Product ID: P0022
+
+Category: Electronics
+
+Items Sold: 79
+
+Returns: 22
+
+Return Rate:
+27.85%
+
+
+Product: Sports Backpack 190
+
+Product ID: P0051
+
+Category: Sports
+
+Items Sold: 77
+
+Returns: 21
+
+Return Rate:
+27.27%
+
+
+Product: Pulse X 415
+
+Product ID: P0171
+
+Category: Electronics
+
+Items Sold: 82
+
+Returns: 22
+
+Return Rate:
+26.83%
+
+
+Product: BassMax 862
+
+Product ID: P0238
+
+Category: Electronics
+
+Items Sold: 82
+
+Returns: 21
+
+Return Rate:
+25.61%
+
+
+Product: Winter Jacket 845
+
+Product ID: P0014
+
+Category: Clothing
+
+Items Sold: 92
+
+Returns: 22
+
+Return Rate:
+23.91%
+
+
+Product: Slim Fit Jeans 720
+
+Product ID: P0006
+
+Category: Clothing
+
+Items Sold: 90
+
+Returns: 21
+
+Return Rate:
+23.33%
+
+
+Product: Matte Lipstick 811
+
+Product ID: P0041
+
+Category: Beauty
+
+Items Sold: 69
+
+Returns: 16
+
+Return Rate:
+23.19%
+
+
+Product: Winter Jacket 714
+
+Product ID: P0180
+
+Category: Clothing
+
+Items Sold: 76
+
+Returns: 17
+
+Return Rate:
+22.37%
+
