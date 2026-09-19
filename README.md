@@ -947,52 +947,27 @@ The project is designed around business questions involving:
 
 # 📸 Screenshots
 
-Screenshots of the application will be added here.
+## Business Overview
 
-Suggested screenshots:
+The main dashboard provides an overview of business performance including KPIs, sales, profit, margins, orders, returns, and category-level analytics.
 
-### 1. Business Overview
-
-Show the main dashboard with:
-
-- KPI cards
-- Sales charts
-- Profit charts
-- Category analysis
-
-### 2. AI Business Analyst
-
-Show:
-
-- User question
-- AI response
-- Conversation follow-up
-
-### 3. Anomaly Detection
-
-Show:
-
-- Electronics Q3 margin anomaly
-- High-return products
-- Monthly profit anomaly
-
-### 4. Marketing Analytics
-
-Show:
-
-- Campaign performance
-- Channel ROI
-- Performance classification
-
-### 5. Filtered Analysis
-
-Show the application after applying:
-
-- Category filter
-- Customer segment filter
-- Date range filter
+![InsightRAG Business Overview](screenshots/dashboard.png)
 
 ---
+
+## AI Business Analyst
+
+The AI Business Analyst allows users to ask natural-language business questions and supports conversational follow-up questions using session-level context.
+
+![InsightRAG AI Business Analyst](screenshots/ai-business-analyst.png)
+
+---
+
+## Anomaly Detection
+
+InsightRAG automatically identifies unusual business patterns such as margin anomalies, high-return products, monthly profit drops, and discount-related profit risks.
+
+![InsightRAG Anomaly Detection](screenshots/anomaly-detection.png)
 
 # 🔮 Future Improvements
 
